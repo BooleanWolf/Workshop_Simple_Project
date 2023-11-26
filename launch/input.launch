@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="textCommand" type="sendingCommand.py" name="sending_cmd_node" output="screen" />
+
+</launch>
